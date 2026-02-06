@@ -1,0 +1,42 @@
+commit 759e58ff4e74fbc6a3a122fdb1b6ac97fbd2dc52
+Merge: 83acd4c 863da28
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 17:55:30 2026 -0800
+
+    Resolved merge conflict
+
+commit 863da2866ad46e7c6d04a439132c1a39ba68b973
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 17:46:03 2026 -0800
+
+    Added favorite movie/game
+
+commit 83acd4c5e8b2d18836f00a78682f03cb9a416687
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 17:45:05 2026 -0800
+
+    Added favorite food
+
+commit 2ae6681d04c49181d9a598ed1818753aef1d07fa
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 17:42:52 2026 -0800
+
+    Ignore macOS .DS_Store files
+
+commit e1c966b49b303be005cc66a06ac3182586e1ba89
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 17:40:35 2026 -0800
+
+    Added README
+
+commit 99a5243de8023658bde133fb5098360d0387dbd1
+Author: erfwn81 <mirzaee.erfan81@gmail.com>
+Date:   Thu Feb 5 16:44:59 2026 -0800
+
+    Filled in missing info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
